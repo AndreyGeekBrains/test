@@ -3,7 +3,6 @@ package homework.lesson2;
 public class homework2 {
 
     public static void main(String[] args) {
-
         mulBy1();
         mulBy2();
         mulBy3();
@@ -13,9 +12,6 @@ public class homework2 {
         System.out.println(mulBy6(arr));
         mulBy7(arr, 3);
         mulBy7(arr, -3);
-
-
-
     }
 
     //Задать целочисленный массив, состоящий из элементов 0 и 1.
