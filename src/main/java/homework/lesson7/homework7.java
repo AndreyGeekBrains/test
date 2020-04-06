@@ -35,7 +35,7 @@ class Cat {
 
         @Override
         public String toString() {
-            return "Кот: " + name + " | Аппетит: " + appetite + "| Сытый: " + isFull;
+            return "Кот: " + name + "  Аппетит: " + appetite + "  Сытый: " + isFull;
         }
 
         void eat(Plate plate) {
